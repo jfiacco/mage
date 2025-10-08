@@ -1,0 +1,11 @@
+# Core dependencies
+numpy>=1.21.0
+gymnasium>=0.28.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Optional: For protocol bridge
+# py4j>=0.10.9  # Uncomment if using Py4J bridge
+# jpype1>=1.4.0  # Uncomment if using JPype bridge
